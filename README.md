@@ -1,2 +1,2 @@
-# C-VIRUS-GAME-STAGE-1
-Today we have created GAMESTATE 0
+# p5.play-boilerplate
+Boiler plate for p5.play
